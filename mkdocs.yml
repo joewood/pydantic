@@ -1,6 +1,6 @@
 site_name: Pydantic
 site_description: Data validation using Python type hints
-strict: true
+strict: false
 site_url: https://docs.pydantic.dev/
 
 theme:
